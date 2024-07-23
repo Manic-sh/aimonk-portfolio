@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Project Tech Stack
+
+- Frontend: Next.js + TypeScript + Material-UI
+- Backend: Firebase Functions/Google Cloud Functions + Firestore/Cloud SQL
+- AI/ML: TensorFlow + Vertex AI + BigQuery ML- 
+- DevOps: Cloud Build + Firebase Hosting/Google Cloud Run + GKE
+- Monitoring: Google Cloud Monitoring + Cloud Logging
+- Security: Firebase Authentication + Google Cloud IAM
+- Project Management: Jira + Confluence + Google Workspace
